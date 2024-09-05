@@ -66,9 +66,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [amanbeliver@example.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/your-username/tindog](https://github.com/your-username/tindog)
+Project Link: [https://github.com/AMANISPEACE/tindog](https://github.com/your-username/tindog)
 
 
-Replace "insert-screenshot-url-here" with the actual URL of your screenshot and customize the "your-username" and "your.email@example.com" placeholders with your actual GitHub username and email address.
