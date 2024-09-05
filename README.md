@@ -4,7 +4,13 @@
 
 TinDog is a fun and modern web application that brings together dogs and their owners for exciting dates! Whether you're looking for a playmate for your pup or just want to connect with other dog lovers in your area, TinDog is the perfect platform for you.
 
-![TinDog Screenshot](insert-screenshot-url-here)
+![image](https://github.com/user-attachments/assets/b2b873db-378f-45f9-839e-147600499c6a)
+![image](https://github.com/user-attachments/assets/fe991ca5-8d5e-4b91-b00b-49479379dab9)
+![image](https://github.com/user-attachments/assets/f2de4f2b-c6b2-4869-952a-1c67ec573c22)
+![image](https://github.com/user-attachments/assets/6b70a990-a858-4019-8c55-975c7f89a557)
+
+
+
 
 ## Table of Contents
 
